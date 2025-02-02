@@ -1,0 +1,26 @@
+{
+  "name": "evaluate-a-news-article-with-natural-language-processing",
+  "version": "1.0.0",
+  "main": "webpack.dev.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deve": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammadsweiti/Evaluate-a-News-Article-with-Natural-Language-Processing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mohammadsweiti/Evaluate-a-News-Article-with-Natural-Language-Processing/issues"
+  },
+  "homepage": "https://github.com/mohammadsweiti/Evaluate-a-News-Article-with-Natural-Language-Processing#readme",
+  "description": "",
+  "devDependencies": {
+    "webpack": "^5.97.1",
+    "webpack-cli": "^6.0.1"
+  }
+}
